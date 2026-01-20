@@ -1,4 +1,4 @@
-# 🚀 Full Inventory Management System with POS & Admin Dashboard
+# 🚀 Ceauty - Full Inventory Management System with POS & Admin Dashboard
 
 **Built using Laravel, Herd / XAMPP, and MySQL**
 
